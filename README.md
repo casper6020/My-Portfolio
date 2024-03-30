@@ -1,2 +1,2 @@
 # My-Portfolio
-Included Different Data Science Projects
+Includes Different Data Science Projects
