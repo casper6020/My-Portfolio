@@ -1,5 +1,5 @@
 # My-Portfolio
-Description of the Files./
+Description of the Files.//
 **Crypto_Time_Series_Analysis** - In this Jupyternotebook, we have done EDA for a dataset that includes bitcoin prices for a certain period. We have used the ARIMA model to predict the future bitcoin prices. 
 
 **EDA for UCI Credit Card Payment Default** - Here, we conducted exploratory data analysis for the dataset of credit card default. We checked for missing values, made graphs to observe the distribution of the target variable, observed the relationships between the independent and dependent variables, and conducted ANOVA test.  
