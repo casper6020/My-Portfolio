@@ -6,6 +6,6 @@ Description of the Files.\
 **Sentiment_Analysis** - Here, we have used VADER to analyze the sentiment of Amazon product reviews.<br/>
 Images of Jupyternotebooks.<br/>
 ![my_portfolio](https://github.com/casper6020/My-Portfolio/assets/147402829/55981a50-1f6f-4c18-8fcf-c7ae108a1280)
-![crypto_sc](https://github.com/casper6020/My-Portfolio/assets/147402829/b7ca532a-7fca-4b81-b207-b666f208c539)
+![Screenshot from 2024-08-16 11-56-06](https://github.com/user-attachments/assets/543062d4-4b60-482d-bba5-cfe06ec4f972)
 ![Screenshot from 2024-08-11 15-03-18](https://github.com/user-attachments/assets/ed682ccc-b3aa-4221-b2d0-380bf507c076)
 
