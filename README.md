@@ -9,6 +9,6 @@ This repository demonstrates different data science projects.\
 Images of Jupyternotebooks.<br/>
 ![Screenshot from 2024-08-11 15-03-18](https://github.com/user-attachments/assets/ed682ccc-b3aa-4221-b2d0-380bf507c076)
 **House price prediction using linear regression** - Here, we have used a linear regression model to predict house prices. <br/>
-<img width="365" alt="Screenshot 2024-10-10 181207" src="https://github.com/user-attachments/assets/12089316-01bb-4ef2-8afb-c9a1b45813e1">
+<img align = "center" width="365" alt="Screenshot 2024-10-10 181207" src="https://github.com/user-attachments/assets/12089316-01bb-4ef2-8afb-c9a1b45813e1">
 
 
