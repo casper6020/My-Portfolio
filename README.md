@@ -1,6 +1,7 @@
 # Introduction
 This repository demonstrates different data science projects.\
 **Data Visualization -> EDA for UCI Credit Card Payment Default** - This is an example of EDA (Exploratory Data Analysis). We did EDA for a credit card default dataset. We checked for missing values, made graphs to observe the distribution of the target variable, observed the relationships between the independent and dependent variables, and conducted ANOVA test.<br/> 
+<img align="center" src="Project_Screenshots/age_dist.png" />
 ![my_portfolio](https://github.com/casper6020/My-Portfolio/assets/147402829/55981a50-1f6f-4c18-8fcf-c7ae108a1280)
 **Time Series Analysis -> Bitcoin Price Prediction**: In this Jupyternotebook, we did EDA for a dataset that includes historical Bitcoin prices for a certain period. We used the ARIMA model to predict the future bitcoin prices.<br/> 
 ![Screenshot from 2024-08-16 11-56-06](https://github.com/user-attachments/assets/543062d4-4b60-482d-bba5-cfe06ec4f972)
